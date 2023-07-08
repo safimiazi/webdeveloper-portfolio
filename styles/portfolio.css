@@ -139,3 +139,17 @@ font-weight: 700;
 .resume-container {
     display: flex;
 }
+.column1 {
+    margin-right: 10px;
+}
+.resume-item-title {
+    margin-bottom: 10px;
+}
+.resume-item-institute {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.download-cv {
+    text-align: center;
+    margin-top: 50px;
+}
