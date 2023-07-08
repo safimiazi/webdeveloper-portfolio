@@ -94,7 +94,6 @@ line-height: 30px;
 
 /*main section style*/
 .about {
-    border: 1px solid black;
     padding: 200px 150px;
     border-radius: 10px;
 background: #FFF8F3;
@@ -110,4 +109,8 @@ justify-content: space-around;
 }
 .about-info {
     text-align:center;
+}
+/*what i do section start*/
+#what-i-do-descdription {
+    padding: 30px 150px;
 }
